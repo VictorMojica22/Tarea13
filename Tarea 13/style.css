@@ -1,0 +1,40 @@
+.button{
+	padding: 15px;
+}
+
+.hero-body
+{
+	background: #5A0E7A;
+}
+
+.title {
+	color: white;
+}
+
+.subtitulo{
+	color: white;
+}
+
+.navbar{
+	margin: ;
+	padding: 10px; 
+}
+
+.titulo{
+	color: black;
+
+}
+
+hr
+{
+	background: black;
+}
+
+.articulo{
+	font-size: 70px;
+}
+
+.titucolumna{
+	font-size: 30px;
+	color: black;
+}
